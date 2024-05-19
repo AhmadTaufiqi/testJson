@@ -1,16 +1,16 @@
 [
   {
-    "Kapasitas": 6,
-    "Kelas": "Ruang Vip",
-    "Sisa": 3,
-    "Terpakai": 3,
-    "id": 1
+    "kapasitas": 6,
+    "kelas": "Ruang Vip",
+    "sisa": 3,
+    "terpakai": 3,
+    "no": 1
   },
   {
-    "Kapasitas": 12,
-    "Kelas": "Ruang Kelas1",
-    "Sisa": 7,
-    "Terpakai": 5,
-    "id": 2
+    "kapasitas": 12,
+    "kelas": "Ruang Kelas1",
+    "sisa": 7,
+    "terpakai": 5,
+    "no": 2
   }
 ]
